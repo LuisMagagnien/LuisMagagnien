@@ -8,7 +8,6 @@ Meu nome é Luis Antônio Magagnien, sou um Assistente de Segurança da Informa�
 
 Atualmente trabalho focado na proteção do ambiente corporativo, gestão de identidades, controle de acessos e auditoria contínua de conformidade (LGPD).
 
-Atualmente, atuo na defesa de ambientes corporativos e monitoramento de ameaças, com um interesse crescente e aprofundamento em **Segurança de Redes**, **Análise de Vulnerabilidades** e **SOC**.
 ## >_ Sobre mim
 * **Bacharelado em Ciência da Computação** — UNOESC — Universidade do Oeste de Santa Catarina *(em andamento)*
 * **Inglês A2** — Prática contínua e consumo de mídias técnicas
