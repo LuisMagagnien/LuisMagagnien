@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img height="1000" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTA5cHJvaGxmYTUyd3h0dWJjbzBjam1lZDdtMjFjZTNubXo1YzhkeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lo4hWSPgBJLlUjGYeK/giphy.gif" />
+</div>
 
-<!--
-**LuisMagagnien/LuisMagagnien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# >_ 👋 Olá!
 
-Here are some ideas to get you started:
+Meu nome é Luis Antônio Magagnien, sou um Assistente de Segurança da Informação brasileiro de 24 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho focado na proteção do ambiente corporativo, gestão de identidades, controle de acessos e auditoria contínua de conformidade (LGPD).
+
+Atualmente, atuo na defesa de ambientes corporativos e monitoramento de ameaças, com um interesse crescente e aprofundamento em **Segurança de Redes**, **Análise de Vulnerabilidades** e **SOC**.
+## >_ Sobre mim
+* **Bacharelado em Ciência da Computação** — UNOESC — Universidade do Oeste de Santa Catarina *(em andamento)*
+* **Inglês A2** — Prática contínua e consumo de mídias técnicas
+ ## \> Tecnologias & Ferramentas
+ <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+</div>
+
+
+## >_ Estatísticas & Atividade
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisMagagnien&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMagagnien&theme=tokyonight" height="150" alt="streak graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMagagnien&layout=compact&theme=tokyonight&langs_count=5" height="150" alt="languages graph" />
+</p>
+
+
+
+
+
