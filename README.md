@@ -11,7 +11,7 @@ Atualmente trabalho focado na proteção do ambiente corporativo, gestão de ide
 ## >_ Sobre mim
 * **Bacharelado em Ciência da Computação** — UNOESC — Universidade do Oeste de Santa Catarina *(em andamento)*
 * **Inglês A2** — Prática contínua e consumo de mídias técnicas
- ## \> Tecnologias & Ferramentas
+ ## >_ Tecnologias & Ferramentas
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
   <img width="15" />
