@@ -22,12 +22,12 @@ Atualmente trabalho focado na proteção do ambiente corporativo, gestão de ide
 ## >_ Estatísticas & Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMagagnien&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMagagnien&theme=tokyonight" height="150" alt="streak graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMagagnien&layout=compact&theme=tokyonight&langs_count=5" height="150" alt="languages graph" />
+
 </p>
 
 
